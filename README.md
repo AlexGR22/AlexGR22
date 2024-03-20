@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal Projects**
+ 🔭 Actualmente me encuentro trabajo en**Proyectos Personales**
  
- 🌱 I’m currently learning **React, Node, AWS,SQL,Mongo**
+ 🌱 Estoy actualmente aprendiendo y mejorando mis habilidades en **React, Node, AWS,SQL,Mongo**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://www.linkedin.com/in/alexisg-r/)**
+💬 Si tienes alguna consulta **Node.js, React, JavaScript... o lo que sea [here](https://www.linkedin.com/in/alexisg-r/)**
 
 
  </div>
@@ -30,7 +30,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Lenguages-Frameworks-Tools-Libraries ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
