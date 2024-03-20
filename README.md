@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+Todos!+👋;+Soy+Alexis!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Argentina 🇨</h3>
+<h3 align="center">¡Bienvenido a mi Github!</h3>
 
 <br/>
 
 <div align="center">
+
+  <h4> Desarrollador JR. Full Stack  </h4>
  
- 🔭 Actualmente me encuentro trabajo en**Proyectos Personales**
+ 🔭 Actualmente me encuentro trabajando en **Proyectos Personales**
  
  🌱 Estoy actualmente aprendiendo y mejorando mis habilidades en **React, Node, AWS,SQL,Mongo**
 
