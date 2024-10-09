@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Lenguages-Frameworks-Tools-Libraries ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools-Libraries ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
