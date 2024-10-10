@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+a+Todos!+👋;+Soy+Alexis!;" />
 </h1>
 
-<h3 align="center">¡Bienvenido a mi Github!</h3>
+<h3 align="center">Welcome to my GitHub!</h3>
 
 <br/>
 
 <div align="center">
 
-  <h4> Desarrollador JR. Full Stack  </h4>
+  <h4> JR. Full Stack Developer   </h4>
  
- 🔭 Actualmente me encuentro trabajando en **Proyectos Personales**
+ 🔭 I am currently working on **Personal Projects**
  
- 🌱 Estoy actualmente aprendiendo y mejorando mis habilidades en **React, Node, AWS,SQL,Mongo**
+ 🌱 I am currently learning and improving my skills in **React, Node, AWS, SQL, Mongo**
 
-💬 Si tienes alguna consulta **Node.js, React, JavaScript... o lo que sea [here](https://www.linkedin.com/in/alexisg-r/)**
+💬 If you have any questions about **Node.js, React, JavaScript... o lo que sea [here](https://www.linkedin.com/in/alexisg-r/)**
 
 
  </div>
