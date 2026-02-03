@@ -16,7 +16,7 @@
  
  🌱 I am currently learning and improving my skills in **React, Node, AWS, SQL, Mongo**
 
-💬 If you have any questions about **Node.js, React, JavaScript... o lo que sea [here](https://www.linkedin.com/in/alexisg-r/)**
+💬 If you have any questions about **Node.js, React, JavaScript... or anything [here](https://www.linkedin.com/in/alexisg-r/)**
 
 
  </div>
