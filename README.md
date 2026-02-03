@@ -10,7 +10,7 @@
 
 <div align="center">
 
-  <h4> JR. Full Stack Developer   </h4>
+  <h4> Full Stack Developer   </h4>
  
  🔭 I am currently working on **Personal Projects**
  
